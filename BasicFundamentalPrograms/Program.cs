@@ -13,7 +13,8 @@ namespace BasicFundamentalPrograms
             //PrimeFactors.GetPrimeFactors();
             //QuotientAndRemainder.GetQuotientAndReminder();
             //SwapingTwoNumbers.SwapTwoNumbers();
-            OddOrEven.ReadInput();
+            //OddOrEven.ReadInput();
+            VowelOrConsonant.ReadInput();
             Console.ReadLine();
 
         }
