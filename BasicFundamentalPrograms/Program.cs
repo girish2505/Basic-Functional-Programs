@@ -14,7 +14,8 @@ namespace BasicFundamentalPrograms
             //QuotientAndRemainder.GetQuotientAndReminder();
             //SwapingTwoNumbers.SwapTwoNumbers();
             //OddOrEven.ReadInput();
-            VowelOrConsonant.ReadInput();
+            //VowelOrConsonant.ReadInput();
+            LargestAmongThree.ReadInput();
             Console.ReadLine();
 
         }
