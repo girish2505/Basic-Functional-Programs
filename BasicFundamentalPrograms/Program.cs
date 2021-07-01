@@ -8,7 +8,8 @@ namespace BasicFundamentalPrograms
         {
             //FlipCoin.ReadInput();
             //LeapYear.CheckLeapYear();
-            PowerOfTwo.FindPowerOfTwo();
+            //PowerOfTwo.FindPowerOfTwo();
+            HarmonicNumber.ReadInput();
             Console.ReadLine();
 
         }
