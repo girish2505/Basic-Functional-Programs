@@ -12,7 +12,8 @@ namespace BasicFundamentalPrograms
             //HarmonicNumber.ReadInput();
             //PrimeFactors.GetPrimeFactors();
             //QuotientAndRemainder.GetQuotientAndReminder();
-            SwapingTwoNumbers.SwapTwoNumbers();
+            //SwapingTwoNumbers.SwapTwoNumbers();
+            OddOrEven.ReadInput();
             Console.ReadLine();
 
         }
