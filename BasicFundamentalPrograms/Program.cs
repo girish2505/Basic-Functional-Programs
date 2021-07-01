@@ -9,7 +9,9 @@ namespace BasicFundamentalPrograms
             //FlipCoin.ReadInput();
             //LeapYear.CheckLeapYear();
             //PowerOfTwo.FindPowerOfTwo();
-            HarmonicNumber.ReadInput();
+            //HarmonicNumber.ReadInput();
+            //PrimeFactors.GetPrimeFactors();
+            QuotientAndRemainder.GetQuotientAndReminder();
             Console.ReadLine();
 
         }
