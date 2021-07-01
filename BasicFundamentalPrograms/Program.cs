@@ -10,8 +10,8 @@ namespace BasicFundamentalPrograms
             //LeapYear.CheckLeapYear();
             //PowerOfTwo.FindPowerOfTwo();
             //HarmonicNumber.ReadInput();
-            //PrimeFactors.GetPrimeFactors();
-            QuotientAndRemainder.GetQuotientAndReminder();
+            PrimeFactors.GetPrimeFactors();
+            //QuotientAndRemainder.GetQuotientAndReminder();
             Console.ReadLine();
 
         }
