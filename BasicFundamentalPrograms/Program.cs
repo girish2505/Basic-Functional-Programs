@@ -7,7 +7,8 @@ namespace BasicFundamentalPrograms
         static void Main(string[] args)
         {
             //FlipCoin.ReadInput();
-            LeapYear.CheckLeapYear();
+            //LeapYear.CheckLeapYear();
+            PowerOfTwo.FindPowerOfTwo();
             Console.ReadLine();
 
         }
