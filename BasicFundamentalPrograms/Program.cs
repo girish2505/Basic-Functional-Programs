@@ -6,7 +6,10 @@ namespace BasicFundamentalPrograms
     {
         static void Main(string[] args)
         {
-            FlipCoin.ReadInput();
+            //FlipCoin.ReadInput();
+            LeapYear.CheckLeapYear();
+            Console.ReadLine();
+
         }
     }
 }
